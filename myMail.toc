@@ -1,0 +1,12 @@
+## Interface: 50500
+## Title: myMail
+## Notes: Send mail to professions
+## Author: Will
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables: myMailDB
+## SavedVariablesPerCharacter: 
+
+myMail.lua
+settings.lua
